@@ -1,0 +1,123 @@
+
+a,
+.colored,
+.contact-info ul li a,
+.contact-info ul li a:focus,
+.check-list li i,
+.plan ul li i,
+#call-to-action h3,
+.subnav-contact .email-contact a:focus,
+.subnav-contact .phone-contact a:focus,
+.logo h5 strong:after,
+.nav-trigger,
+.flat-section-title h3:after,
+.contact-form-title h4:after,
+#video h1,
+#header-featured-form i,
+.video-controls .player-icon,
+.video-controls .volume-icon,
+.owl-theme .owl-controls .owl-buttons div,
+.owl-theme .owl-controls .owl-buttons div:hover,
+.footer-box h3,
+.footer-box a:hover,
+.subnav-contact .email-contact a,
+.subnav-contact .phone-contact a,
+ul.contact-info li i,
+ul.contact-info li span,
+.team-profile h5,
+ul.team-social-media li a:hover,
+#instagram-feed .icon-overlay i,
+.portfolio-item-info p,
+.subnav-social .Languages:hover,
+.languages-lightbox-content li a:hover h4,
+.languages-lightbox-content li a:hover,
+.languages-lightbox-content li a:focus,
+.social-icons li a i:hover,
+ul.contact-info li a:hover {
+  color: #1abc9c;
+}
+
+/******************************/
+
+/** [ 2 ] - Background
+ *	~~~~~~~~~~~~~~~~~~~~
+ */
+
+.featured-button,
+.plan.recommended .head,
+.single-testmonial i,
+.subnav-contact .phone-contact i,
+.subnav-contact .email-contact i,
+.title-line,
+.contact-form-title .title-line,
+.languages-lightbox-title,
+ul.portfolio-filter li.active a,
+ul.portfolio-filter li a:hover,
+.more-features-slider .owl-controls .owl-page.active span {
+  background: #1abc9c;
+}
+
+/******************************/
+
+/** [ 3 ] - Color, Border color and Background 
+ *	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ */
+
+::-moz-selection {
+  background: #1abc9c;
+}
+
+::selection {
+  background: #1abc9c;
+}
+
+#contact-form input:focus,
+#contact-form textarea:focus,
+#contact-form2 input:focus,
+#contact-form2 textarea:focus,
+#subscribe-form input:focus {
+  border-color: #1abc9c;
+}
+
+#contact-form .submit,
+#contact-form2 .submit,
+#subscribe-form .submit {
+  background: #1abc9c;
+  border-color: #1abc9c;
+}
+
+.main-menu li a:hover,
+.main-menu li a.active {
+  border-top-color: #1abc9c;
+  color: #1abc9c;
+}
+
+.nav-trigger:hover {
+  background: #1abc9c;
+  border-color: #1abc9c;
+}
+
+/******************************/
+
+/** [ 4 ] - Hover Button State
+ *	~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ */
+
+.featured-button:hover,
+.scroll-top:hover {
+  background: #1fa28a;
+}
+
+.subnav-contact .email-contact a:hover,
+.subnav-contact .phone-contact a:hover {
+  color: #1fa28a;
+}
+
+#contact-form .submit:hover,
+#contact-form2 .submit:hover,
+#subscribe-form .submit:hover {
+  background: #1fa28a;
+  border-color: #1fa28a;
+}
+
+/******************************/
